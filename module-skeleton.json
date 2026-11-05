@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-dashboards-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-dashboards",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-dashboards-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/dashboards.md",
+  "presentationPlan": "projects/accounting/nuxt/dashboards.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
